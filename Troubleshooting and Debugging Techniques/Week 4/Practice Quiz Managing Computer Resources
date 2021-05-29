@@ -15,4 +15,6 @@ top
 ANS:-
 delete
 
-
+5.How can you profile an entire Python application?
+ANS:-
+Use the guppy module
